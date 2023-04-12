@@ -1,2 +1,1 @@
-# Tindog
-A fictional dating app 
+TinDog Starting Files
